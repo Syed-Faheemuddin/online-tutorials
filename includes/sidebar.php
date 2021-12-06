@@ -7,7 +7,7 @@
 					<li><a href="dashboard.php"><i class="fa fa-desktop"></i>Dashboard</a></li>
 					<li><a href="#"><i class="fa fa-files-o"></i>Tutorials</a> 
 					<ul>
- 						<li><a href="">Available Videos</a></li>
+ 						<li><a href="videos.php">Available Videos</a></li>
 					</ul>
 				</li>	
  					<li><a href="my-profile.php"><i class="fa fa-user"></i> My Profile</a></li>
